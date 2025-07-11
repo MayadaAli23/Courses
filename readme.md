@@ -1,1 +1,1 @@
-These are assignments I completed as part of the Google Data Analytics and IBM Data Science certificates. All code is my own implementation and expanded to reflect my personal understanding and learning.
+These are assignments I completed as part of the Google Data Analytics and IBM Data Analysis certificates. All code is my own implementation and expanded to reflect my personal understanding and learning.
